@@ -1,3 +1,3 @@
 # git-tutorial
-# ls lists your directors
+# ls lists your directories
 # cd allows you to change directories
